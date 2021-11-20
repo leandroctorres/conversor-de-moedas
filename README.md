@@ -1,6 +1,19 @@
 # conversor
 
+Conversor de moedas com Vue JS . Projeto desenvolvido acompanhando vídeo do canal Programador BR.
+
+LINK: https://www.youtube.com/watch?v=tIEa3MRBpI0
+
+
+
+## Image: 
+
+
+
+<img src=".\src\assets\conversor.png"  />
+
 ## Project setup
+
 ```
 npm install
 ```
