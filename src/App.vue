@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-		<Conversor />
+		<Conversor moeda-a="USD" moeda-b="BRL"/>
   </div>
 </template>
 
